@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "ru.baccasoft.spasibo.develop",
+                "paths": ["cuppons"]
+            }
+        ]
+    }
+}
