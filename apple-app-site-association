@@ -7,7 +7,8 @@
                 "paths": [
                     "/cuppons/*/",
                     "/spasibomania/*",
-                    "/actions/*"
+                    "/actions/*",
+                    "/levels/*"
                 ]
             }
         ]
