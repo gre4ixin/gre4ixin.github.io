@@ -5,7 +5,7 @@
             {
                 "appID": "35WX7RQ5M8.ru.baccasoft.spasibo.develop",
                 "paths": [
-                    "/*/cuppons/*/",
+                    "/*/cuppons/*",
                     "/*/spasibomania/",
                     "/*/actions/*",
                     "/*/levels/"
