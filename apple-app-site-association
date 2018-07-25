@@ -10,7 +10,9 @@
                     "/*/spasibomania/",
                     "/*/actions/*/",
                     "/*/actions/*",
-                    "/*/levels/"
+                    "/*/levels/",
+                    "/*/personalActions/*/",
+                    "/*/personalActions/*"
                 ]
             }
         ]
