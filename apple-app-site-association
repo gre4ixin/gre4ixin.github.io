@@ -11,8 +11,8 @@
                     "/actions/*/",
                     "/actions/*",
                     "/levels/",
-                    "/personalActions/*/",
-                    "/personalActions/*"
+                    "/personalactions/*/",
+                    "/personalactions/*"
                 ]
             }
         ]
