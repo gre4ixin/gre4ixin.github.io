@@ -12,7 +12,8 @@
                     "/actions/*",
                     "/levels/",
                     "/personalactions/*/",
-                    "/personalactions/*"
+                    "/personalactions/*",
+                    "/imperia/"
                 ]
             }
         ]
