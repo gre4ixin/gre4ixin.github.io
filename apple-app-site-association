@@ -3,17 +3,9 @@
         "apps": [],
         "details": [
             {
-                "appID": "35WX7RQ5M8.ru.baccasoft.spasibo.develop",
+                "appID": "L2QFT5NA2Q.ru.mail.electroscope-alpha-enterprise",
                 "paths": [
-                    "/coupons/*",
-                    "/coupons/*/",
-                    "/spasibomania/",
-                    "/actions/*/",
-                    "/actions/*",
-                    "/levels/",
-                    "/personalactions/*/",
-                    "/personalactions/*",
-                    "/imperia/"
+                    "/vk-auth-connect/*"
                 ]
             }
         ]
