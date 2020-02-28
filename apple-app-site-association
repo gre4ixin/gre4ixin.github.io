@@ -6,6 +6,7 @@
                 "appID": "L2QFT5NA2Q.ru.mail.electroscope-alpha-enterprise",
                 "paths": [
                     "/vk-auth-connect/*",
+                    "/vk-auth-connect1/*",
                     "/setup/*"
                 ]
             },
