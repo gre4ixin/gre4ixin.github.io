@@ -7,6 +7,12 @@
                 "paths": [
                     "/vk-auth-connect/*"
                 ]
+            },
+            {
+                "appID": "4D6LA585PP.ru.mail.electroscope",
+                "paths": [
+                    "/vk-auth-connect/*"
+                ]
             }
         ]
     }
