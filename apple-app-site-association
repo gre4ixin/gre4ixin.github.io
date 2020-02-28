@@ -6,14 +6,14 @@
                 "appID": "L2QFT5NA2Q.ru.mail.electroscope-alpha-enterprise",
                 "paths": [
                     "/vk-auth-connect/*",
-                    "/setup/"
+                    "/setup/*"
                 ]
             },
             {
                 "appID": "4D6LA585PP.ru.mail.electroscope",
                 "paths": [
                     "/vk-auth-connect/*",
-                    "/setup/"
+                    "/setup/*"
                 ]
             }
         ]
