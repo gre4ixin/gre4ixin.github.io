@@ -1,0 +1,21 @@
+:root {
+    color-scheme: light dark;
+        --h1-color: red;
+        --header-bg-clr: green;
+        --header-txt-clr: black;
+    }
+    @media (prefers-color-scheme: dark) {
+    :root {
+        color-scheme: light dark;
+        --h1-color: #ff8080;
+        --header-bg-clr: #80ff80;
+        --header-txt-clr: white;
+        }
+    }
+ 
+body { }
+h1 { color: var(--h1-color); }
+.header {
+    background-color: var (--header-bg-clr);
+    color: var(--header-txt-clr);
+}
