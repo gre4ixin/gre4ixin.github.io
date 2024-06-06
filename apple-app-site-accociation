@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "W8P5V4C6JE.com.music.vk.enterprise",
+                "appID": "R26JY69RPL.com.music.vk",
                 "components": [
                     {"/": "/support", 
                     "?": { "act": "faqs_music"},
