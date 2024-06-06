@@ -6,7 +6,9 @@
                 "appID": "R26JY69RPL.com.music.vk",
                 "components": [
                     { 
-                        "/": "/test/*"
+                        "/": "/support/",
+                        "?": "act=faqs_music",
+                        "from": "*"
                     }
                 ]
             }
