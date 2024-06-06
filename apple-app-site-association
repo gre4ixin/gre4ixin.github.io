@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "R26JY69RPL.com.music.vk",
+                "components": [
+                    { 
+                        "/": "/test/*"
+                    }
+                ]
+            }
+        ]
+    }
+}
